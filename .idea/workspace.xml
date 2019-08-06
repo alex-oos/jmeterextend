@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="api" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="969c3fff-db46-4dcf-bb2d-23f740848482" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/jmeterextend$Goods_listSample.ic" NAME="Goods_listSample Coverage Results" MODIFIED="1547185692274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.sample.wap.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>byteArrayOutputStream</find>
+      <find>recommend_list</find>
+      <find>list</find>
+      <find>848304</find>
+      <find>sqrtMap</find>
+      <find>post</find>
+      <find>sampleResult</find>
+      <find>text</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>order_id</replace>
+    </replaceStrings>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1P37oX22yj7h4WbiVQscgMIhhXf" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>InfiniteLoopStatement</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552535365122" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.classpath" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.request" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sample.huochebang" />
+      <recent name="com.sample.mendiandingdantong" />
+      <recent name="com.sample.mendianbagnshou" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkspaceInterface\jmeterextend\src\com\request" />
+      <recent name="D:\WorkspaceInterface\jmeterextend\src\com\sample" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="GetTokenVerifySample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.huochebang.GetTokenVerifySample" />
+      <module name="jmeterextend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sample.huochebang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogGetgoodinfoSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.huochebang.LogGetgoodinfoSample" />
+      <module name="jmeterextend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sample.huochebang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.Test" />
+      <module name="jmeterextend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTokenVerify2Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.huochebang.TestTokenVerify2Sample" />
+      <module name="jmeterextend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sample.huochebang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTokenVerifySample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.huochebang.TestTokenVerifySample" />
+      <module name="jmeterextend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sample.huochebang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LogGetgoodinfoSample" />
+      <item itemvalue="Application.TestTokenVerifySample" />
+      <item itemvalue="Application.GetTokenVerifySample" />
+      <item itemvalue="Application.TestTokenVerify2Sample" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestTokenVerify2Sample" />
+        <item itemvalue="Application.TestTokenVerifySample" />
+        <item itemvalue="Application.TestTokenVerify2Sample" />
+        <item itemvalue="Application.GetTokenVerifySample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="969c3fff-db46-4dcf-bb2d-23f740848482" name="Default Changelist" comment="" />
+      <created>1546596492351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546596492351</updated>
+      <workItem from="1546596502446" duration="1931000" />
+      <workItem from="1546670825389" duration="1597000" />
+      <workItem from="1546678404993" duration="2039000" />
+      <workItem from="1546847230144" duration="171000" />
+      <workItem from="1546847422802" duration="47000" />
+      <workItem from="1546850483351" duration="132000" />
+      <workItem from="1546859562167" duration="1089000" />
+      <workItem from="1546909654072" duration="7528000" />
+      <workItem from="1546919783239" duration="5366000" />
+      <workItem from="1546935464721" duration="357000" />
+      <workItem from="1546936273171" duration="734000" />
+      <workItem from="1546939120319" duration="2358000" />
+      <workItem from="1547002727177" duration="6000" />
+      <workItem from="1547022837154" duration="3851000" />
+      <workItem from="1547032702346" duration="340000" />
+      <workItem from="1547087028497" duration="2099000" />
+      <workItem from="1547090616421" duration="16540000" />
+      <workItem from="1547115762624" duration="1984000" />
+      <workItem from="1547118125435" duration="625000" />
+      <workItem from="1547119130178" duration="1502000" />
+      <workItem from="1547170111527" duration="1638000" />
+      <workItem from="1547173848677" duration="2230000" />
+      <workItem from="1547176574232" duration="3434000" />
+      <workItem from="1547186529155" duration="9477000" />
+      <workItem from="1547198178136" duration="3489000" />
+      <workItem from="1547428333764" duration="19534000" />
+      <workItem from="1547514453951" duration="4605000" />
+      <workItem from="1547522786583" duration="446000" />
+      <workItem from="1547523669293" duration="77000" />
+      <workItem from="1547535327180" duration="27000" />
+      <workItem from="1547535389188" duration="929000" />
+      <workItem from="1547538521470" duration="16000" />
+      <workItem from="1547545942086" duration="2000" />
+      <workItem from="1547603146851" duration="3982000" />
+      <workItem from="1547624208339" duration="8240000" />
+      <workItem from="1547694451270" duration="10938000" />
+      <workItem from="1547958501662" duration="488000" />
+      <workItem from="1548052020948" duration="43000" />
+      <workItem from="1548054168089" duration="289000" />
+      <workItem from="1548054602402" duration="1935000" />
+      <workItem from="1548073798707" duration="803000" />
+      <workItem from="1548384052848" duration="36000" />
+      <workItem from="1548384318634" duration="109000" />
+      <workItem from="1548385351320" duration="1287000" />
+      <workItem from="1548926916075" duration="2021000" />
+      <workItem from="1548928967035" duration="1270000" />
+      <workItem from="1548985539588" duration="180000" />
+      <workItem from="1550049067358" duration="36000" />
+      <workItem from="1550132702580" duration="1138000" />
+      <workItem from="1550193926356" duration="10335000" />
+      <workItem from="1550225205570" duration="768000" />
+      <workItem from="1550226823840" duration="13000" />
+      <workItem from="1550227743500" duration="2682000" />
+      <workItem from="1550469310815" duration="1623000" />
+      <workItem from="1550474628713" duration="17000" />
+      <workItem from="1550713538400" duration="3589000" />
+      <workItem from="1550740163499" duration="12000" />
+      <workItem from="1550740919508" duration="2407000" />
+      <workItem from="1550747740448" duration="13000" />
+      <workItem from="1552534219560" duration="1145000" />
+      <workItem from="1552535764621" duration="76000" />
+      <workItem from="1552542055905" duration="101000" />
+      <workItem from="1552565024917" duration="27000" />
+      <workItem from="1565091103763" duration="259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sample/mendianbagnshou/Cart_listSample.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jmeterextend</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
